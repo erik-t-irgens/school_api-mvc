@@ -1,6 +1,6 @@
 # School MVC/API
 
-#### _DESCRIPTION - August 2019_
+#### _School MVC and API that allows for Student and Course creation with a many-to-many relationship - August 2019_
 
 #### _By **Erik Irgens**_
 
